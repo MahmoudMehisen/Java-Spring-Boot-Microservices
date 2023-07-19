@@ -1,6 +1,7 @@
 package org.mehisen.fraud;
 
 import lombok.RequiredArgsConstructor;
+import org.mehisen.clients.fraud.FraudCheckResponse;
 import org.springframework.web.bind.annotation.*;
 
 @RequiredArgsConstructor
